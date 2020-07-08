@@ -1,0 +1,46 @@
+#navbarNavAltMarkup{
+    font-weight: bold;
+    color:grey;
+}
+
+.btn-cls{
+background-color: black;
+border: none;
+border-radius: 5px;
+padding: 8px 25px;
+color:#fff
+
+}
+.carousel-inner{
+   padding: 20px 18px; 
+}
+.card{
+   border:none;
+  text-align: center;
+}
+
+.p-1{
+  font-size: 20px;
+   font-weight: bold;
+}
+
+
+.p-2{
+   color: orange;
+   font-weight: bold;
+}
+
+.carousel-indicators{
+   width: 20px;
+   height: 8px;
+   border: none;
+   border-radius: 4px;
+   background-color: #cecece;
+}
+
+.carousel-indicators li:active{
+width: 35px;
+height: 10px;
+background-color: orange;
+
+}
